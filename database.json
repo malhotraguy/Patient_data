@@ -4,18 +4,18 @@
           "name":"Johan",
           "ID":"01",
           "medicine": "penicillin",
-          "frequency": "twice a day"
-          "duration": "three weeks"
-          "appointment": "tommorow"
+          "frequency": "twice a day",
+          "duration": "three weeks",
+          "appointment": "tommorow",
           "remarks": "take medicines on time" 
       } ,
       {
           "name": "Karim",
           "ID": "02",
           "medicine": "Nutrella",
-          "frequency": "once a day"
-          "duration": "two weeks"
-          "appointment": "today"
+          "frequency": "once a day",
+          "duration": "two weeks",
+          "appointment": "today",
           "remarks": "take food on time" 
       } ,
 
