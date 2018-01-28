@@ -1,14 +1,24 @@
 {
-    "patients": [
-        {
-            "id": 1,
-            "name": "Johan",
-            "medecines": [
-                {"name": P, "frequency": 50}
-            ],
-            "duration": 100,
-            "nextAppointment": "tomorrow",
-            "remark": "take your meds"
-        },
-    ]
+  "Patient":[
+      {
+          "name":"Johan",
+          "ID":"01",
+          "medicine":"penicillin",
+          "frequency":"twice a day"
+          "duration":"three weeks"
+          "appointment":"tommorow"
+          "remarks":"take medicines on time" 
+      } ,
+      {
+          "name":"Karim",
+          "ID":"02",
+          "medicine":"Nutrella",
+          "frequency":"once a day"
+          "duration":"two weeks"
+          "appointment":"today"
+          "remarks":"take food on time" 
+      } ,
+
+  ]  
+
 }
