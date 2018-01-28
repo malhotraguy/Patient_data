@@ -1,0 +1,14 @@
+{
+    patients: [
+        {
+            "id": 1,
+            "name": "Johan",
+            "medecines": [
+                {"name": P, "frequency": 50}
+            ],
+            "duration": 100,
+            "nextAppointment": "tomorrow",
+            "remark": "take your meds"
+        },
+    ]
+}
