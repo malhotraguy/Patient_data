@@ -1,5 +1,5 @@
 {
-    patients: [
+    "patients": [
         {
             "id": 1,
             "name": "Johan",
